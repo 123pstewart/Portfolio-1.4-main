@@ -1,4 +1,4 @@
-ahtml, body {
+html, body {
   height: 100%;
   width: 100%;
 }
@@ -340,7 +340,7 @@ html {
 #particles-js {
   position: absolute;
   width: 80%;
-  height: 800%;
+  height: 640%;
 animation: fadeInAnimation ease 3s;
   
 }
