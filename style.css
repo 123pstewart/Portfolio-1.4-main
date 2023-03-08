@@ -3,15 +3,16 @@ html, body {
   width: 100%;
 }
 h1{
+  /* background: linear-gradient(90deg, #d360f686, #cb4af27e); */
   font-family: 'Gemunu Libre', sans-serif;
   font-size: max(4vw, 40px);
-  color: #8e5572;
+  color: #960a52;
   text-align: center;
 }
 p{
   font-family: 'Source Sans Pro', sans-serif;
   font-size: max(1vw, 30px);
-  color: #88665d;
+  color: #c65e41;
   text-align: center;
 }
 h2{
